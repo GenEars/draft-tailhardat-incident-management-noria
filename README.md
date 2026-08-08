@@ -2,16 +2,16 @@
 
 This is the working area for the individual Internet-Draft, "*Knowledge Graphs for Enhanced Cross-Operator Incident Management and Network Design*".
 
-* [Editor's Copy](https://GenEars.github.io/draft-tailhardat-nmop-incident-management-noria/#go.draft-tailhardat-nmop-incident-management-noria.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-tailhardat-nmop-incident-management-noria)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-tailhardat-nmop-incident-management-noria)
-* [Compare Editor's Copy to Individual Draft](https://GenEars.github.io/draft-tailhardat-nmop-incident-management-noria/#go.draft-tailhardat-nmop-incident-management-noria.diff)
+* [Editor's Copy](https://GenEars.github.io/draft-tailhardat-incident-management-noria/#go.draft-tailhardat-incident-management-noria.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-tailhardat-incident-management-noria)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-tailhardat-incident-management-noria)
+* [Compare Editor's Copy to Individual Draft](https://GenEars.github.io/draft-tailhardat-incident-management-noria/#go.draft-tailhardat-incident-management-noria.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/GenEars/draft-tailhardat-nmop-incident-management-noria/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/GenEars/draft-tailhardat-incident-management-noria/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.

@@ -18,18 +18,3 @@ subject to a Simplified BSD License) in Contributions.
 
 For content guidelines overview, please refer to
 https://authors.ietf.org/en/content-guidelines-overview and https://www.rfc-editor.org/styleguide/
-
-## Working Group Information
-
-Discussion of this work occurs on the [Network Management Operations
-Working Group mailing list](mailto:nmop@ietf.org)
-([archive](https://mailarchive.ietf.org/arch/browse/nmop/),
-[subscribe](https://www.ietf.org/mailman/listinfo/nmop)).
-In addition to contributions in GitHub, you are encouraged to participate in
-discussions there.
-
-**Note**: Some working groups adopt a policy whereby substantive discussion of
-technical issues needs to occur on the mailing list.
-
-You might also like to familiarize yourself with other
-[Working Group documents](https://datatracker.ietf.org/wg/nmop/documents/).
