@@ -3,8 +3,8 @@ title: "Knowledge Graphs for Enhanced Cross-Operator Incident Management and Net
 abbrev: "Knowledge Graphs & Incident Management"
 category: info
 
-docname: draft-tailhardat-nmop-incident-management-noria-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+docname: draft-tailhardat-incident-management-noria-latest
+submissiontype: independent  # also: "IETF", "independent", "editorial", "IAB", or "IRTF"
 
 #number: 00
 #date: 2024-06-27
@@ -12,19 +12,19 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 consensus: true
 v: 3
 
-area: "Operations and Management"
-workgroup: "Network Management Operations"
+#area: "Operations and Management"
+workgroup: "Independent Submission Stream"
 keyword:
 - knowledge graphs
 - incident management
 - anomaly detection
 venue:
-  group: "Network Management Operations"
-  type: "Working Group"
-  mail: "nmop@ietf.org"
-  arch: "https://mailarchive.ietf.org/arch/browse/nmop/"
-  github: "genears/draft-tailhardat-nmop-incident-management-noria"
-  latest: "https://genears.github.io/draft-tailhardat-nmop-incident-management-noria/draft-tailhardat-nmop-incident-management-noria.html"
+#  group: "Network Management Operations"
+#  type: "Working Group"
+#  mail: "nmop@ietf.org"
+#  arch: "https://mailarchive.ietf.org/arch/browse/nmop/"
+  github: "genears/draft-tailhardat-incident-management-noria"
+  latest: "https://genears.github.io/draft-tailhardat-incident-management-noria/draft-tailhardat-incident-management-noria.html"
 
 author:
  -
