@@ -5,14 +5,13 @@
 Independent Submission Stream                              L. Tailhardat
 Internet-Draft                                           Orange Research
 Intended status: Informational                                 R. Troncy
-Expires: 9 February 2027                                         EURECOM
+Expires: 11 February 2027                                        EURECOM
                                                                Y. Chabot
-                                                            F. Ramparany
                                                                  P. Folz
                                                          Orange Research
                                                              B. Kavanagh
                                                                     TiDB
-                                                           8 August 2026
+                                                          10 August 2026
 
 
   Knowledge Graphs for Enhanced Cross-Operator Incident Management and
@@ -71,7 +70,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 9 February 2027.
+   This Internet-Draft will expire on 11 February 2027.
 
 Copyright Notice
 
@@ -1899,7 +1898,17 @@ Changes Between Revisions
    *  Document creation based on
       [I-D.tailhardat-nmop-incident-management-noria] v05.
 
+   v01
+
+   *  (minor edit) Modified the authors list to comply with the IETF
+      policy (there should be no more than five listed authors).
+
 Contributors
+
+   Fano Ramparany
+   Orange Research
+   Email: fano.ramparany@orange.com
+
 
    Maria Massri
    Orange Research
@@ -1956,11 +1965,6 @@ Authors' Addresses
    Yoan Chabot
    Orange Research
    Email: yoan.chabot@orange.com
-
-
-   Fano Ramparany
-   Orange Research
-   Email: fano.ramparany@orange.com
 
 
    Pauline Folz
