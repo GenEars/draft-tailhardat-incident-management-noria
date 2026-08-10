@@ -40,10 +40,6 @@ author:
     organization: Orange Research
     email: yoan.chabot@orange.com
  -
-    fullname: Fano Ramparany
-    organization: Orange Research
-    email: "fano.ramparany@orange.com"
- -
     fullname: Pauline Folz
     organization: Orange Research
     email: "pauline.folz@orange.com"
@@ -53,6 +49,10 @@ author:
     email: "bernard.k@pingcap.com"
 
 contributor:
+ -
+    fullname: Fano Ramparany
+    organization: Orange Research
+    email: "fano.ramparany@orange.com"
  -
     fullname: Maria Massri
     organization: Orange Research
@@ -1402,3 +1402,7 @@ The following individuals are (or have been) members of the design team and have
 v00 (draft-tailhardat-incident-management-noria)
 
 - Document creation based on {{?I-D.tailhardat-nmop-incident-management-noria}} v05.
+
+v01
+
+- (minor edit) Modified the authors list to comply with the IETF policy (there should be no more than five listed authors).

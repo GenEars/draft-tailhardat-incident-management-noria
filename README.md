@@ -46,6 +46,7 @@ printenv | grep _PROXY
 ## Useful links
 
 * ASCII diagram editor: [asciiflow.com](https://asciiflow.com/#/)
+* The [draft-tailhardat-nmop-incident-management-noria](https://github.com/GenEars/draft-tailhardat-nmop-incident-management-noria) I.D. this Internet Draft is coming from.
 
 ## Maintainer
 
